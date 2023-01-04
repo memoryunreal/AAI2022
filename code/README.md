@@ -1,4 +1,3 @@
-** AAI final Project
 # Environment installation
 ```
 bash requirement.sh
